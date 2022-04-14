@@ -11,12 +11,6 @@ function App() {
             <li>Home</li>
             <a href="https://travelnursingdirect.com/blog/"><li>Blogs</li></a>
             <li>Travel Nurse Salary 101</li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
           </ul>
         </nav>
       </header>
